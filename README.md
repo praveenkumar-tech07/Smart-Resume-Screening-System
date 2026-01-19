@@ -137,45 +137,45 @@ Rank  Resume                     Score
 | < 0.40      | Low relevance   |
 Higher scores indicate better alignment with job requirements based on text analysis.
 
-##🧩 How It Works Internally
+## 🧩 How It Works Internally
 
-Parsing Logic
+### Parsing Logic
 The system uses text extraction libraries to read content from documents. OCR handles images/scanned files.
 
-Preprocessing
+### Preprocessing
 
-Lowercaser
+-Lowercaser
 
-Tokenizer
+-Tokenizer
 
-Stopword removal
+-Stopword removal
 
-Optional Lemmatization
+-Optional Lemmatization
 
-Similarity Model
+### Similarity Model
 The default model is TF-IDF with cosine similarity. You can swap in embedding-based approaches (e.g., Sentence Transformers) for deeper semantic matching.
 
-##📌 Limitations & Future Work
+## 📌 Limitations & Future Work
 
-###❗ Current limitations
+### ❗ Current limitations
 
-Does not support all file types
+-Does not support all file types
 
-Basic NLP — may misinterpret complex formatting
+-Basic NLP — may misinterpret complex formatting
 
-No GUI (unless added)
+-No GUI (unless added)
 
-###✨ Future upgrades
+### ✨ Future upgrades
 
-Streamlit / Web UI
+-Streamlit / Web UI
 
-Use of transformer embeddings (BERT, SBERT)
+-Use of transformer embeddings (BERT, SBERT)
 
-Database integration for bulk resumes
+-Database integration for bulk resumes
 
-##🙌 Contributing
+## 🙌 Contributing
 
-Contributions are welcome! 🤝
+### Contributions are welcome! 🤝
 
 1.Fork the repo
 
@@ -186,3 +186,8 @@ Contributions are welcome! 🤝
 4.Push and open a Pull Request
 
 5.Follow code style and include tests
+
+# Smart Resume Screening System
+
+*Developed by Praveen Kumar*
+
