@@ -1,0 +1,14 @@
+# NLP & ML
+nltk
+scikit-learn
+numpy
+pandas
+
+# Resume file handling
+PyPDF2
+python-docx
+
+# OCR for scanned PDFs
+pdf2image
+pytesseract
+Pillow

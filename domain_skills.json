@@ -1,0 +1,24 @@
+{
+  "Machine Learning Engineer": [
+  "python", "machine learning", "ml", "deep learning",
+  "tensorflow", "pytorch", "scikit-learn",
+  "nlp", "computer vision", "cnn", "rnn",
+  "data preprocessing", "model training"
+],
+  "Software Engineer": [
+    "Python", "Java", "C++", "Data Structures", "Algorithms",
+    "OOPs", "System Design", "Git"
+  ],
+  "Web Developer": [
+    "HTML", "CSS", "JavaScript", "React", "Node.js",
+    "Express", "MongoDB", "REST API"
+  ],
+  "Data Analyst": [
+    "Python", "SQL", "Excel", "Power BI",
+    "Tableau", "Data Visualization", "Statistics"
+  ],
+  "Cyber Security Engineer": [
+    "Network Security", "Cryptography", "Penetration Testing",
+    "Linux", "Firewalls", "Vulnerability Assessment"
+  ]
+}
